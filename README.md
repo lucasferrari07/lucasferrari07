@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Lucas Ferrari da Costa, a Full Stack Developer from Brazil (and recently moved to Canada). I've been studying programming since High School and working since 2013. Started on PHP/jQuery/MySQL stack and most recently (2021), working with NodeJs/React/NoSQL. My cloud experience is mainly with AWS, had a small work experience with Azure but haven't really done DevOps with it.<br><br>- 🔭 I’m working as Full Stack Developer with NodeJS, React, NoSQL and AWS<br>- 📚 I'm currently learning more about container orchestration<br>- ⚡ In my free time I like to spend time with my family and game with friends</p>
+<p align="left">I'm Lucas Ferrari da Costa, a Full Stack Developer from Brazil (and recently moved to Canada). I've been studying programming since High School and working since 2013. Started on PHP/jQuery/MySQL stack and most recently (2021), working with NodeJs/React/NoSQL. My cloud experience is mainly with AWS, had a small work experience with Azure but haven't really done DevOps with it.<br><br>- 🔭 I’m working as Full Stack Developer with NodeJS, React, NoSQL and AWS<br>- ⚡ In my free time I like to spend time with my family and game with friends</p>
 
 ###
 
